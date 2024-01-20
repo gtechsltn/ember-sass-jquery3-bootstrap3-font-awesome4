@@ -1,4 +1,4 @@
-# ember-sass-jquery3-bootstrap3-font-awesome4
+# Ember 5.4 Starter Kit
 + Ember v5.4
 + HTML, CSS, JavaScript
 + SASS
@@ -21,3 +21,7 @@
 + https://www.npmjs.com/package/eonasdan-bootstrap-datetimepicker/v/4.17.47
 + https://www.npmjs.com/package/alpaca
 + https://www.npmjs.com/package/alpaca/v/1.5.27
+
+# References
++ https://github.com/gtechsltn/ember-sass-jquery3-bootstrap3-font-awesome4/
++ https://github.com/gtechsltn/ember5-jquery3-bootstrap3-font-awesome4/
